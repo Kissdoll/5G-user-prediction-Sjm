@@ -24,26 +24,26 @@ Predict whether a telecom user is a 5G subscriber based on demographic & behavio
 - Class: Class 1, Software Engineering, Grade 2024, Fujian Normal University
 - Members: Jiamo Song, Yuchen Weng, Mengcheng He, Shengjie He, Xinrui Lin, Zhitao Zhang  
 - Roles: 
-  -Jiamo Song: 
-    1. Data loading, preprocessing, and standardization; 
-    2. Orchestrated model training with cross-validation and grid search; 
-    3. Model evaluation and ROC curve synthesis; 
-    4. Repository management, documentation, and final report compilation. 
-  -Yuchen Weng:
-    1. KNN model development and hyperparameter optimization; 
-    2. Contributed to the translation and formatting of the project documentation.
-  -Mengcheng He:
-    1. Logistic Regression model development and hyperparameter optimization; 
-    2. Contributed to the translation and formatting of the project documentation.
-  -Shengjie He:
-    1. Decision Tree model development and hyperparameter optimization; 
-    2. Enhanced source code readability through detailed English documentation and annotations.
-  -Xinrui Lin:
-    1. Bagging model development; 
-    2. Comparative analysis of Random Forest implementations (LightGBM vs scikit-learn); 
-    3. Contributed to team coordination and self-assessment reporting.
-  -Zhitao Zhang
-    1. Boosting model development; 
-    2. Comparative analysis of GBDT implementations (LightGBM vs scikit-learn); 
-    3. Contributed to the final laboratory report and document formatting.
+  1. Jiamo Song: 
+    - Data loading, preprocessing, and standardization; 
+    - Orchestrated model training with cross-validation and grid search; 
+    - Model evaluation and ROC curve synthesis; 
+    - Repository management, documentation, and final report compilation. 
+  2. Yuchen Weng:
+    - KNN model development and hyperparameter optimization; 
+    - Contributed to the translation and formatting of the project documentation.
+  3. Mengcheng He:
+    - Logistic Regression model development and hyperparameter optimization; 
+    - Contributed to the translation and formatting of the project documentation.
+  4. Shengjie He:
+    - Decision Tree model development and hyperparameter optimization; 
+    - Enhanced source code readability through detailed English documentation and annotations.
+  5 Xinrui Lin:
+    - Bagging model development; 
+    - Comparative analysis of Random Forest implementations (LightGBM vs scikit-learn); 
+    - Contributed to team coordination and self-assessment reporting.
+  6. Zhitao Zhang
+    - Boosting model development; 
+    - Comparative analysis of GBDT implementations (LightGBM vs scikit-learn); 
+    - Contributed to the final laboratory report and document formatting.
 
