@@ -38,7 +38,7 @@ Predict whether a telecom user is a 5G subscriber based on demographic & behavio
   4. Shengjie He:
     - Decision Tree model development and hyperparameter optimization; 
     - Enhanced source code readability through detailed English documentation and annotations.
-  5 Xinrui Lin:
+  5. Xinrui Lin:
     - Bagging model development; 
     - Comparative analysis of Random Forest implementations (LightGBM vs scikit-learn); 
     - Contributed to team coordination and self-assessment reporting.
