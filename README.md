@@ -24,25 +24,25 @@ Predict whether a telecom user is a 5G subscriber based on demographic & behavio
 - Class: Class 1, Software Engineering, Grade 2024, Fujian Normal University
 - Members: Jiamo Song, Yuchen Weng, Mengcheng He, Shengjie He, Xinrui Lin, Zhitao Zhang  
 - Roles: 
-  Jiamo Song: 
+  -Jiamo Song: 
     1. Data loading, preprocessing, and standardization; 
     2. Orchestrated model training with cross-validation and grid search; 
     3. Model evaluation and ROC curve synthesis; 
     4. Repository management, documentation, and final report compilation. 
-  Yuchen Weng:
+  -Yuchen Weng:
     1. KNN model development and hyperparameter optimization; 
     2. Contributed to the translation and formatting of the project documentation.
-  Mengcheng He:
+  -Mengcheng He:
     1. Logistic Regression model development and hyperparameter optimization; 
     2. Contributed to the translation and formatting of the project documentation.
-  Shengjie He:
+  -Shengjie He:
     1. Decision Tree model development and hyperparameter optimization; 
     2. Enhanced source code readability through detailed English documentation and annotations.
-  Xinrui Lin:
+  -Xinrui Lin:
     1. Bagging model development; 
     2. Comparative analysis of Random Forest implementations (LightGBM vs scikit-learn); 
     3. Contributed to team coordination and self-assessment reporting.
-  Zhitao Zhang
+  -Zhitao Zhang
     1. Boosting model development; 
     2. Comparative analysis of GBDT implementations (LightGBM vs scikit-learn); 
     3. Contributed to the final laboratory report and document formatting.
